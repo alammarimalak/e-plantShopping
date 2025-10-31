@@ -4,6 +4,11 @@ body, h1, ul {
     padding: 0;
 }
 
+.product-button:disabled {
+  background-color: #bebebe; 
+  color: white;  
+}
+
 /* Set a background color */
 body {
     font-family: Arial, sans-serif;
